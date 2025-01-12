@@ -1,7 +1,12 @@
 # Paper_Reading
 
-B站论文记录
+B站论文记录，可以根据时间线（视频汇总）查看，也可以根据类别进行查看，注意有些论文符合多个类别，我不会重复列出
 
+# 目录
+
+
+# 视频汇总
+按照视频发布时间进行排序
 | 日期 | 论文标题| 视频标题  | 时长 | 播放数     | 收藏数        | 点赞数      |
 |------------|----|-----------|------|------------|---------|--------|
 | 2025/01/09 | [MetaMorph](https://tsb0601.github.io/metamorph) | [![title](https://img.shields.io/badge/dynamic/json?label=视频&query=data.title&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9)](https://www.bilibili.com/video/BV1W1rkYqEn9/) | 9:29 | ![view](https://img.shields.io/badge/dynamic/json?label=播放量&query=data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) | ![favorite](https://img.shields.io/badge/dynamic/json?label=收藏数&query=data.stat.favorite&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) | ![like](https://img.shields.io/badge/dynamic/json?label=点赞数&query=data.stat.like&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) |
