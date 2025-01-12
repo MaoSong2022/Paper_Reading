@@ -86,3 +86,14 @@ B站论文记录，可以根据时间线（视频汇总）查看，也可以根�
 ## InternVL系列
 
 # 大模型
+
+# 生成模型
+
+# Research Track
+
+# Others
+
+# Acknowledgement
+1. 借鉴了李沐老师的[paper reading](https://github.com/mli/paper-reading)
+2. Badges使用了[Shields.io](https://img.shields.io/)
+3. 数据基于bilibili的[API](https://www.bilibili.com/opus/552172175376927649)
