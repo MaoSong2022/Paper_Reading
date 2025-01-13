@@ -4,9 +4,10 @@ B站论文记录，可以根据时间线（视频汇总）查看，也可以根�
 
 # 目录
 
-
 # 视频汇总
+
 按照视频发布时间进行排序
+
 | 日期 | 论文标题| 视频标题  | 时长 | 播放数     | 收藏数        | 点赞数      |
 |------------|----|-----------|------|------------|---------|--------|
 | 2025/01/09 | [MetaMorph](https://tsb0601.github.io/metamorph) | [![title](https://img.shields.io/badge/dynamic/json?label=视频&query=data.title&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9)](https://www.bilibili.com/video/BV1W1rkYqEn9/) | 09:29 | ![view](https://img.shields.io/badge/dynamic/json?label=播放量&query=data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) | ![favorite](https://img.shields.io/badge/dynamic/json?label=收藏数&query=data.stat.favorite&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) | ![like](https://img.shields.io/badge/dynamic/json?label=点赞数&query=data.stat.like&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1W1rkYqEn9) |
@@ -85,15 +86,43 @@ B站论文记录，可以根据时间线（视频汇总）查看，也可以根�
 
 ## InternVL系列
 
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+| ✅   | 23.12    | InternVL 1.0  | InternViT         |        |
+|      | 24.04     | InternVL 1.5  | 架构              |        |
+|      | 24.10    | Mini-InternVL | 蒸馏InternViT     |        |
+|      | 24.11    | InternVL-MPO  | Alignmed InternVL |        |
+|      | 24.12    | InternVL 2.5  | Training and Data |        |
+
+## DeepSeek VL系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 24.03    | DeekSeek VL  | dual vision encoder         |        |
+|  ✅  | 24.12     | DeepSeek VL 2.0  | DeepSeek-MoE             |        |
+
 # 大模型
 
+## Phi系列
+
+## LlaMA系列
+
+## Qwen系列
+
+## DeepSeek系列
+
 # 生成模型
+
+# 统一理解与生成模型
+
+[统一理解与生成](papers/unified_MLLMs.md)
 
 # Research Track
 
 # Others
 
 # Acknowledgement
+
 1. 借鉴了李沐老师的[paper reading](https://github.com/mli/paper-reading)
 2. Badges使用了[Shields.io](https://img.shields.io/)
 3. 数据基于bilibili的[API](https://www.bilibili.com/opus/552172175376927649)
