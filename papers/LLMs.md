@@ -17,6 +17,19 @@
 
 ## DeepSeek系列
 
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 24.01    | [DeepSeek LLM](https://arxiv.org/abs/2401.02954)  |      LLM        |        |
+|      | 24.01    | [DeepSeek-Coder](https://arxiv.org/abs/2401.14196)  |    Code LLM      |        |
+|      | 24.01    | [DeepSeek-MoE](https://arxiv.org/abs/2401.06066)  |      MoE        |        |
+|      | 24.02    | [DeepSeek-Math](https://arxiv.org/abs/2402.03300)  |      Math LLM        |        |
+|      | 24.05    | [DeepSeek-V2](https://arxiv.org/abs/2405.04434)  |     LLM      |        |
+|      | 24.06    | [DeepSeek-Coder-V2](https://github.com/deepseek-ai)  |      Code LLM        |        |
+|      | 24.05    | [DeepSeek-Prover](https://arxiv.org/abs/2405.14333)  |    Prover LLM      |        |
+|      | 24.12    | [DeepSeek-V3](https://arxiv.org/abs/2412.19437)  |     LLM      |        |
+
+
+
 ## Gemma系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
