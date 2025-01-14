@@ -83,42 +83,25 @@ B站论文记录，可以根据时间线（视频汇总）查看，也可以根�
 | 2024/08/14 |[VITA](https://arxiv.org/pdf/2408.05211)|[![title](https://img.shields.io/badge/dynamic/json?label=视频&query=data.title&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1V3enedETN)](https://www.bilibili.com/video/BV1V3enedETN/)|7:06|![view](https://img.shields.io/badge/dynamic/json?label=播放量&query=data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1V3enedETN)|![title](https://img.shields.io/badge/dynamic/json?label=收藏数&query=data.stat.favorite&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1V3enedETN)|![title](https://img.shields.io/badge/dynamic/json?label=点赞数&query=data.stat.like&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1V3enedETN)
 |            |                                                  |                                                                                                                                                                                                         |      |                                                                                                                                                          |                                                                                                                                                                  |                                                                                                                                                          |
 
-# 多模态大模型
+# LLM
 
-## InternVL系列
+[大语言模型](papers/LLMs.md)
 
-| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
-|------|----------|---------------|-------------------|--------|
-| ✅   | 23.12    | InternVL 1.0  | InternViT         |        |
-|      | 24.04     | InternVL 1.5  | 架构              |        |
-|      | 24.10    | Mini-InternVL | 蒸馏InternViT     |        |
-|      | 24.11    | InternVL-MPO  | Alignmed InternVL |        |
-|      | 24.12    | InternVL 2.5  | Training and Data |        |
+# MLLM
 
-## DeepSeek VL系列
-
-| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
-|------|----------|---------------|-------------------|--------|
-|      | 24.03    | DeekSeek VL  | dual vision encoder         |        |
-|  ✅  | 24.12     | DeepSeek VL 2.0  | DeepSeek-MoE             |        |
-
-# 大模型
-
-## Phi系列
-
-## LlaMA系列
-
-## Qwen系列
-
-## DeepSeek系列
+[多模态大模型](papers/MLLMs.md)
 
 # 生成模型
+
+[生成模型](papers/generation.md)
 
 # 统一理解与生成模型
 
 [统一理解与生成](papers/unified_MLLMs.md)
 
 # Research Track
+
+[Research Track](papers/researc_track.md)
 
 # Others
 
