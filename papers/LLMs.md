@@ -13,7 +13,27 @@
 
 ## LlaMA系列
 
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 23.02    | [LLaMA](https://arxiv.org/abs/2302.13971)  |          |        |
+|      | 23.07    | [LLaMA 2](https://arxiv.org/abs/2307.09288)  |          |        |
+|      | 23.08     | [Code LLaMA](https://arxiv.org/abs/2308.12950)  |              |        |
+|      | 23.12     | [Purple LLaMA](https://arxiv.org/abs/2312.04724)  |              |        |
+|      | 24.04     | [LLaMA 3](https://arxiv.org/abs/2407.21783)  |              |        |
+|      | 24.07     | [LLaMA 3.1](https://arxiv.org/abs/2407.21783)  |              |        |
+|      | 24.09     | [LLaMA 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)  |              |        |
+
 ## Qwen系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 24.12     | [Qwen 2.5](https://arxiv.org/abs/2412.15115)  |              |        |
+|      | 24.09    | [Qwen 2.5-Coder](https://arxiv.org/abs/2409.12186)  |          |        |
+|      | 24.09    | [Qwen 2.5-Math](https://arxiv.org/abs/2409.12122)  |          |        |
+|      | 24.08     | [Qwen 2-Math](https://qwenlm.github.io/blog/qwen2-math/)  |              |        |
+|      | 24.04     | [CodeQwen 1.5](https://qwenlm.github.io/blog/codeqwen1.5/)  |              |        |
+|      | 23.02    | [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)  |          |        |
+|      | 23.09    | [Qwen](https://arxiv.org/abs/2309.16609)  |          |        |
 
 ## DeepSeek系列
 
@@ -27,8 +47,6 @@
 |      | 24.06    | [DeepSeek-Coder-V2](https://github.com/deepseek-ai)  |      Code LLM        |        |
 |      | 24.05    | [DeepSeek-Prover](https://arxiv.org/abs/2405.14333)  |    Prover LLM      |        |
 |      | 24.12    | [DeepSeek-V3](https://arxiv.org/abs/2412.19437)  |     LLM      |        |
-
-
 
 ## Gemma系列
 
