@@ -2,14 +2,24 @@
 
 ## LLaVA 系列
 
-TODO
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 23.04    | [LLaVA](https://arxiv.org/abs/2304.08485)  |          |        |
+|      | 23.06     | [LLaVA-Med](https://arxiv.org/abs/2306.00890)  |         |        |
+|      | 23.09     | [LLaVA-RLHF](https://llava-rlhf.github.io/)  |         |        |
+|      | 23.10    | [LLaVA 1.5](https://arxiv.org/abs/2310.03744)  |          |        |
+|      | 23.11    | [LLaVA Interactive](https://arxiv.org/abs/2311.00571)  |          |        |
+|      | 23.12    | [LLaVA-Plus](https://arxiv.org/abs/2311.05437)  |          |        |
+|      | 24.01    | [LLaVA-Next](https://llava-vl.github.io/blog/2024-01-30-llava-next/)  |          |        |
+|      | 24.05    | [LLaVA-Next (Video)](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/)  |          |        |
+|      | 24.05    | [LLaVA-Next (Stronger)](https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/)  |          |        |
 
 ## Qwen VL系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
-|      | 23.08    | [Qwe-VL](http://arxiv.org/abs/2308.12966)  | dual vision encoder         |        |
-|  ✅  | 24.09     | [Qwen2-VL](http://arxiv.org/abs/2409.12191)  | DeepSeek-MoE
+|      | 23.08    | [Qwe-VL](http://arxiv.org/abs/2308.12966)  |         |        |
+|  ✅  | 24.09     | [Qwen2-VL](http://arxiv.org/abs/2409.12191)  |         |        |
 
 ## InternVL系列
 
