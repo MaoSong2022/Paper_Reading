@@ -67,7 +67,6 @@
 |      | 23.10    | [Mistral 7B](https://arxiv.org/pdf/2310.06825)  |          |        |
 |      | 24.01     | [Mixtral 8x7B](https://arxiv.org/pdf/2401.04088)  |              |        |
 
-
 ## Falcon 系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
@@ -76,3 +75,12 @@
 |      | 24.07     | [Falcon 2](https://arxiv.org/pdf/2407.14885)  |              |        |
 |      | 24.10     | [Falcon Mamba](https://arxiv.org/abs/2410.05355)  |              |        |
 |      | 24.12     | [Falcon 3](https://huggingface.co/blog/falcon3)  |              |        |
+
+
+# 01 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 24.03    | [Yi](https://arxiv.org/abs/2403.04652)  |          |        |
+|      | 24.05    | [Yi-1.5](https://github.com/01-ai/Yi-1.5)  |          |        |
+|      | 24.09    | [Yi-Coder](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)  |          |        |
