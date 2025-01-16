@@ -58,7 +58,7 @@
 | ✅   | 24.03    | [MM1](http://arxiv.org/abs/2403.09611)  | 多模态大模型         |        |
 |    | 24.09    | [MM1.5](http://arxiv.org/abs/2409.20566)  | 多模态大模型         |        |
 
-## Google Paligemma 系列
+## Google PaliGemma 系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
@@ -80,3 +80,12 @@
 |      | 23.09    | [OBELICS](https://openreview.net/forum?id=SKN2hflBIZ&noteId=dDhzqGrzJk)  |          |        |
 |  ✅  | 24.05    | [IDEFICS-2](https://arxiv.org/abs/2405.02246)  |          |        |
 |      | 24.08    | [IDEFICS-3](https://arxiv.org/abs/2408.12637)  |          |        |
+
+# VILA 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 23.12    | [VILA](https://arxiv.org/abs/2312.07533)  |          |        |
+|      | 24.08    | [LongVILA](https://openreview.net/forum?id=wCXAlfvCy6)  |          |        |
+|   ✅ | 24.09    | [VILA-U](https://openreview.net/forum?id=02haSpO453)  |    统一理解与生成      |        |
+|   ✅ | 24.12    | [NVILA](https://arxiv.org/abs/2412.04468)  |          |        |
