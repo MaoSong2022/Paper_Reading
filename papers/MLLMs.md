@@ -81,7 +81,7 @@
 |  ✅  | 24.05    | [IDEFICS-2](https://arxiv.org/abs/2405.02246)  |          |        |
 |      | 24.08    | [IDEFICS-3](https://arxiv.org/abs/2408.12637)  |          |        |
 
-# VILA 系列
+## VILA 系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
@@ -89,3 +89,30 @@
 |      | 24.08    | [LongVILA](https://openreview.net/forum?id=wCXAlfvCy6)  |          |        |
 |   ✅ | 24.09    | [VILA-U](https://openreview.net/forum?id=02haSpO453)  |    统一理解与生成      |        |
 |   ✅ | 24.12    | [NVILA](https://arxiv.org/abs/2412.04468)  |          |        |
+
+## mPLUG 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 22.05    | [mPLUG](https://arxiv.org/pdf/2205.12005)  |          |        |
+|      | 23.02    | [mPLUG-2](https://arxiv.org/pdf/2302.00402)  |          |        |
+|      | 23.04    | [mPLUG-DocOwl](https://arxiv.org/pdf/2304.14178)  |          |        |
+|      | 23.04    | [ChatPLUG](https://arxiv.org/abs/2304.07849)  |          |        |
+|      | 23.06    | [Youku-mPLUG](https://arxiv.org/pdf/2306.04362)  |          |        |
+|      | 23.07    | [mPLUG-DocOwl](https://arxiv.org/pdf/2307.02499)  |          |        |
+|      | 23.09    | [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257)  |          |        |
+|      | 23.11    | [mPLUG-PaperOwl](https://arxiv.org/pdf/2311.18248)  |          |        |
+|      | 23.12    | [mPLUG-HalOwl](https://arxiv.org/pdf/2312.06968v4)  |          |        |
+|      | 24.03    | [mPLUG-DocOwl1.5](https://arxiv.org/pdf/2403.12895)  |          |        |
+|      | 24.08    | [mPLUG-Owl3](https://arxiv.org/pdf/2408.04840)  |          |        |
+|      | 24.09    | [mPLUG-DocOwl2](https://arxiv.org/pdf/2409.03420)  |          |        |
+
+## InternLM-XComposer 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 23.09    | [InternLM-XComposer](https://arxiv.org/pdf/2309.15112)  |          |        |
+|      | 24.01    | [InternLM-XComposer2](https://arxiv.org/pdf/2401.16420)  |          |        |
+|      | 24.04    | [InternLM-XComposer2-4KHD](https://arxiv.org/pdf/2404.06512)  |          |        |
+|      | 24.07    | [InternLM-XComposer2.5](https://arxiv.org/pdf/2407.03320)  |          |        |
+|      | 24.12    | [InternLM-XComposer2.5-OmniLive](https://arxiv.org/pdf/2412.09596)  |          |        |
