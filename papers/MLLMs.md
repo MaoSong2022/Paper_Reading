@@ -65,10 +65,18 @@
 | ✅   | 24.07    | [PaliGemma](http://arxiv.org/abs/2407.07726)  | 多模态大模型         |        |
 | ✅   | 24.12    | [PaliGemma 2](http://arxiv.org/abs/2412.03555)  | 多模态大模型         |        |
 
-# CogVLM 系列
+## CogVLM 系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
 |      | 23.11    | [CogVLM](https://arxiv.org/abs/2311.03079)  |          |        |
 |      | 23.12    | [CogAgent](https://arxiv.org/abs/2312.08914)  |         |        |
 |      | 24.08    | [CogVLM-2](https://arxiv.org/abs/2408.16500)  |          |        |
+
+## IDEFICS 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 23.09    | [OBELICS](https://openreview.net/forum?id=SKN2hflBIZ&noteId=dDhzqGrzJk)  |          |        |
+|  ✅  | 24.05    | [IDEFICS-2](https://arxiv.org/abs/2405.02246)  |          |        |
+|      | 24.08    | [IDEFICS-3](https://arxiv.org/abs/2408.12637)  |          |        |
