@@ -12,8 +12,8 @@
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
-|      | 24.01    | [01](https://arxiv.org/abs/2401.00210)  |          |        |
-|      | 24.01    | [01](https://arxiv.org/abs/2401.00210)  |          |        |
+|      | 24.01    | [STILL-1](http://arxiv.org/abs/2411.11694)  |          |        |
+|      | 24.01    | [Imitate, Explore, and Self-Improve](http://arxiv.org/abs/2412.09413)  |          |        |
 |      | 25.01    | [Virgo](https://arxiv.org/abs/2501.01904)  |      MLLM reasoning    |        |
 
 ## Models
