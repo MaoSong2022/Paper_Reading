@@ -29,6 +29,7 @@
 |      | 23.05    | [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)  |          |        |
 |      | 22.05    | [STaR](https://arxiv.org/abs/2203.14465)  |          |        |
 |      | 25.01    | [MVoT](https://openreview.net/forum?id=D19UyP4HYk)  |          |        |
+|      | 25.01    | [DeepSeek-R1](https://arxiv.org/abs/2501.12948)  |          |        |
 
 # MLLM
 
@@ -41,3 +42,4 @@
 |      | 24.12    | [Mulberry](https://arxiv.org/abs/2412.18319)  |          |        |
 |      | 25.01    | [URSA](https://arxiv.org/pdf/2501.04686)  |          |        |
 |      | 24.11    | [CoT+Skill based](https://openreview.net/forum?id=D19UyP4HYk)  |          |        |
+|      | 25.01    | [Kimi k1.5](https://arxiv.org/abs/2501.12599)  |          |        |
