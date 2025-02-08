@@ -26,11 +26,11 @@
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
 | ✅   | 23.12    | [InternVL 1.0](http://arxiv.org/abs/2312.05542)  | InternViT         |        |
-|   ✅    | 24.04    | [InternVL 1.5](http://arxiv.org/abs/2404.00227)  | 架构              |        |
-|      | 24.10    | [Mini-InternVL](http://arxiv.org/abs/2410.16261) | 蒸馏InternViT     |        |
-|   ✅   | 24.10    | [Mono-InternVL](http://arxiv.org/abs/2410.08202) | 蒸馏InternViT     |        |
-|      | 24.11    | [InternVL-MPO](https://arxiv.org/abs/2411.10442)  | Aligned InternVL |        |
-|      | 24.12    | [InternVL 2.5](http://arxiv.org/abs/2412.05271)  | Training and Data |        |
+| ✅   | 24.04    | [InternVL 1.5](http://arxiv.org/abs/2404.00227)  | 架构              |        |
+| ✅   | 24.10    | [Mini-InternVL](http://arxiv.org/abs/2410.16261) | 蒸馏InternViT     |        |
+| ✅   | 24.10    | [Mono-InternVL](http://arxiv.org/abs/2410.08202) | 蒸馏InternViT     |        |
+| ✅   | 24.11    | [InternVL-MPO](https://arxiv.org/abs/2411.10442)  | Aligned InternVL |        |
+| ✅   | 24.12    | [InternVL 2.5](http://arxiv.org/abs/2412.05271)  | Training and Data |        |
 
 ## DeepSeek VL系列
 
@@ -56,7 +56,7 @@
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
 | ✅   | 24.03    | [MM1](http://arxiv.org/abs/2403.09611)  | 多模态大模型         |        |
-|    | 24.09    | [MM1.5](http://arxiv.org/abs/2409.20566)  | 多模态大模型         |        |
+|      | 24.09    | [MM1.5](http://arxiv.org/abs/2409.20566)  | 多模态大模型         |        |
 
 ## Google PaliGemma 系列
 
