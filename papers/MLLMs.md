@@ -64,6 +64,7 @@
 |------|----------|---------------|-------------------|--------|
 | ✅   | 24.07    | [PaliGemma](http://arxiv.org/abs/2407.07726)  | 多模态大模型         |        |
 | ✅   | 24.12    | [PaliGemma 2](http://arxiv.org/abs/2412.03555)  | 多模态大模型         |        |
+| ✅   | 24.12    | [PaliGemma 2 Mix](https://huggingface.co/blog/paligemma2mix)  | PaliGemma2 upgrade         |  VQA,文档理解，OCR，定位      |
 
 ## CogVLM 系列
 
