@@ -81,6 +81,8 @@
 |      | 23.09    | [OBELICS](https://openreview.net/forum?id=SKN2hflBIZ&noteId=dDhzqGrzJk)  |          |        |
 |  ✅  | 24.05    | [IDEFICS-2](https://arxiv.org/abs/2405.02246)  |          |        |
 |      | 24.08    | [IDEFICS-3](https://arxiv.org/abs/2408.12637)  |          |        |
+|      | 24.08    | [SmolVLM](https://huggingface.co/blog/smolvlm)  |      基于idefics3架构    |        |
+|      | 24.08    | [SmolVLM-v2](https://huggingface.co/blog/smolvlm2)  |          |        |
 
 ## VILA 系列
 
