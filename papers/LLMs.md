@@ -10,6 +10,7 @@
 |      | 24.04    | [Phi-3](https://arxiv.org/abs/2404.14219)  |          |        |
 |      | 24.08    | [Phi-3.5](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280)  |          |     blog   |
 |      | 24.12    | [Phi-4](https://arxiv.org/pdf/2412.08905)  |              |        |
+|      | 25.03    | [Phi-4-mini](https://arxiv.org/abs/2503.01743)  |              |        |
 
 ## LlaMA系列
 
@@ -27,13 +28,15 @@
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
 |------|----------|---------------|-------------------|--------|
-|      | 24.12     | [Qwen 2.5](https://arxiv.org/abs/2412.15115)  |              |        |
-|      | 24.09    | [Qwen 2.5-Coder](https://arxiv.org/abs/2409.12186)  |          |        |
-|      | 24.09    | [Qwen 2.5-Math](https://arxiv.org/abs/2409.12122)  |          |        |
+|      | 23.02    | [Qwen](https://arxiv.org/abs/2309.16609)  |          |        |
+|      | 23.09    | [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)  |          |        |
+|      | 24.04     | [CodeQwen 1.5](https://qwenlm.github.io/blog/codeqwen1.5/)  |           |        |
+|      | 24.07    | [Qwen 2](https://arxiv.org/abs/2407.10671)  |          |        |
 |      | 24.08     | [Qwen 2-Math](https://qwenlm.github.io/blog/qwen2-math/)  |              |        |
-|      | 24.04     | [CodeQwen 1.5](https://qwenlm.github.io/blog/codeqwen1.5/)  |              |        |
-|      | 23.02    | [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)  |          |        |
-|      | 23.09    | [Qwen](https://arxiv.org/abs/2309.16609)  |          |        |
+|      | 24.09    | [Qwen 2.5-Math](https://arxiv.org/abs/2409.12122)  |          |        |
+|      | 24.09    | [Qwen 2.5-Coder](https://arxiv.org/abs/2409.12186)  |          |        |
+|      | 24.12     | [Qwen 2.5](https://arxiv.org/abs/2412.15115)  |              |        |
+|      | 25.01     | [Qwen 2.5 1M](https://arxiv.org/abs/2501.15383)  |              |        |
 
 ## DeepSeek系列
 
@@ -76,7 +79,6 @@
 |      | 24.10     | [Falcon Mamba](https://arxiv.org/abs/2410.05355)  |              |        |
 |      | 24.12     | [Falcon 3](https://huggingface.co/blog/falcon3)  |              |        |
 
-
 # 01 系列
 
 | 视频 | 论文日期 | 论文标题      | 简介              | Remark |
@@ -84,3 +86,13 @@
 |      | 24.03    | [Yi](https://arxiv.org/abs/2403.04652)  |          |        |
 |      | 24.05    | [Yi-1.5](https://github.com/01-ai/Yi-1.5)  |          |        |
 |      | 24.09    | [Yi-Coder](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)  |          |        |
+
+# olmo 系列
+
+| 视频 | 论文日期 | 论文标题      | 简介              | Remark |
+|------|----------|---------------|-------------------|--------|
+|      | 24.02    | [olmo](https://arxiv.org/abs/2402.00838)  |          |        |
+|      | 24.09    | [olmoe](https://arxiv.org/abs/2409.02060)  |          |        |
+|      | 25.01    | [olmo 2](https://arxiv.org/abs/2501.00656)  |          |        |
+|      | 24.09    | [molmo](https://arxiv.org/abs/2409.17146)  |   多模态大模型       |        |
+|      | 25.02    | [olmoOCR](https://arxiv.org/abs/2502.18443)  |    基于Qwen2-vl的OCR模型      |        |
